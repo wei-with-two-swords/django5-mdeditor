@@ -3,14 +3,7 @@
 
 Django5-mdeditor是一个基于Django-mdeditor的改进版，由于Django-mdeditor已经很多年没有更新，所以制作了这个工具。
 
-
-
-[![ENV](https://img.shields.io/badge/release-v0.1.20-blue.svg)](https://github.com/pylixm/django-mdeditor)
-[![ENV](https://img.shields.io/badge/中文文档-v0.1.20-blue.svg)](./README_CN.md)
-[![ENV](https://img.shields.io/badge/gitter-v0.1.20-blue.svg)](https://gitter.im/django-mdeditor/Lobby)
-[![ENV](https://img.shields.io/badge/python-2.x/3.x-green.svg)](https://github.com/pylixm/django-mdeditor)
-[![ENV](https://img.shields.io/badge/django-1.7+-green.svg)](https://github.com/pylixm/django-mdeditor)
-[![LICENSE](https://img.shields.io/badge/license-GPL3.0-green.svg)](https://github.com/pylixm/django-mdeditor/master/LICENSE.txt)
+该插件的使用方式和django-mdeditor一般无二，只不过在安装的时候，需要使用`pip install django5-mdeditor`，具体见下文。
 
 
 **Django-mdeditor** 是基于 [Editor.md](https://github.com/pandao/editor.md) 的一个 [django](djangoproject.com) Markdown 文本编辑插件应用。
@@ -39,7 +32,7 @@ Django5-mdeditor是一个基于Django-mdeditor的改进版，由于Django-mdedit
 
 - 安装
 ```bash
-    pip install django-mdeditor
+    pip install django5-mdeditor
 ```
 
 - 在 `settings` 配置文件 `INSTALLED_APPS` 中添加 `mdeditor`:

@@ -1,13 +1,9 @@
 
-# django-mdeditor
+# django5-mdeditor
 
+Django5-mdeditor is an improved version based on Django-mdeditor. As Django-mdeditor has not been updated for many years, this tool was created.
 
-[![ENV](https://img.shields.io/badge/release-v0.1.20-blue.svg)](https://github.com/pylixm/django-mdeditor)
-[![ENV](https://img.shields.io/badge/中文-v0.1.20-blue.svg)](./README_CN.md)
-[![ENV](https://img.shields.io/badge/Gitter-v0.1.20-blue.svg)](https://gitter.im/django-mdeditor/Lobby)
-[![ENV](https://img.shields.io/badge/python-2.x/3.x-green.svg)](https://github.com/pylixm/django-mdeditor)
-[![ENV](https://img.shields.io/badge/django-1.7+-green.svg)](https://github.com/pylixm/django-mdeditor)
-[![LICENSE](https://img.shields.io/badge/license-GPL3.0-green.svg)](https://github.com/pylixm/django-mdeditor/master/LICENSE.txt)
+The usage of this plugin is no different from that of Django mdeditor, except that during installation, `pip install Django 5-mdeditor` needs to be used, as detailed in the following text.
 
 ![](./django_and_editor.png)
 
@@ -37,9 +33,9 @@
 
 - Installation.
 ```bash
-    pipenv install django-mdeditor
+    pipenv install django5-mdeditor
     # or
-    pip install django-mdeditor
+    pip install django5-mdeditor
 ```
 
 - Add `mdeditor` to your INSTALLED_APPS setting like this:
