@@ -1,5 +1,8 @@
 
-# django-mdeditor
+# django5-mdeditor
+
+Django5-mdeditor是一个基于Django-mdeditor的改进版，由于Django-mdeditor已经很多年没有更新，所以制作了这个工具。
+
 
 
 [![ENV](https://img.shields.io/badge/release-v0.1.20-blue.svg)](https://github.com/pylixm/django-mdeditor)
