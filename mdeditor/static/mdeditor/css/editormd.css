@@ -247,6 +247,8 @@
 }
 
 .editormd-dialog {
+  width: auto !important;
+  height: auto !important;
   color: #666;
   position: fixed;
   z-index: 99999;
